@@ -1,2 +1,2 @@
 # ggry-portfolio
-https://hggry.github.io/
+https://hggry.github.io/ggry-portfolio/
